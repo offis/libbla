@@ -1,0 +1,6 @@
+[submodule "extern/units"]
+	path = extern/units
+	url = https://github.com/boostorg/units.git
+[submodule "extern/embxx"]
+	path = extern/embxx
+	url = https://github.com/arobenko/embxx.git
